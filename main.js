@@ -1,2 +1,2 @@
-const a ="Como estas";
+const a ="Como estas hola";
 console.log(a);
